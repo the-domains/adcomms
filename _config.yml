@@ -1,0 +1,14 @@
+layout_spectrum: 0.5741138
+color:
+  saturation: 0.4950051
+  brandStrength: 0.2653194
+  lightness: 0.8401454
+  brandColors:
+    - '#161617'
+    - '#786F64'
+    - '#0100FD'
+    - '#FFFFFA'
+    - '#6EF2FF'
+  rhythmicContrast: 0.4893731
+typography_spectrum: 0.6374866
+name: ADComms
