@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ADComms]]></title>
+        <description><![CDATA[ADComms]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 07:24:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NextGeneration training facility -- bridging the skills gap]]></title>
+            <description><![CDATA[<article><h1>NextGeneration training facility -- bridging the skills gap</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f964a297e7ae060e0a87a2b7b28991da60a4b46d.png"></article>]]></description>
+            <link>undefinednextgeneration-training-facility-bridging-the-skills-gap/index.html</link>
+            <guid isPermaLink="false">f2b15ac8-2827-4f86-9706-5dcd7a3cd356</guid>
+            <pubDate>Thu, 25 Feb 2016 07:23:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
